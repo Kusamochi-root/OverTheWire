@@ -1,9 +1,17 @@
-# OverTheWire
-My personal writeups for OverTheWire games.
+# OverTheWire Wargames Walkthroughs
 
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#00ff00', 'pie2': '#008800', 'pie3': '#004400', 'pie4': '#444444' }}}%%
-pie title My OverTheWire Journey
-    "Bandit" : 34
-    "Natas" : 12
-    "Leviathan" : 7
-    "Others" : 5
+This repository is dedicated to documenting my solutions and writeups for the **OverTheWire** wargames. I am using these challenges to strengthen my skills in Linux, networking, and cybersecurity.
+
+---
+
+## 📊 My Progression
+
+Below is a visual representation of my current progress across different wargames.
+
+```mermaid
+pie title OverTheWire Journey
+    "Bandit (Complete)" : 34
+    "Natas" : 10
+    "Leviathan" : 5
+    "Krypton" : 2
+    "Remaining Challenges" : 50
