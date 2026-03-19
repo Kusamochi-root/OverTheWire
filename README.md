@@ -15,3 +15,4 @@ pie title OverTheWire Journey
     "Leviathan" : 5
     "Krypton" : 2
     "Remaining Challenges" : 50
+![OverTheWire Progress](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Bandit','Natas','Leviathan','Others'],datasets:[{data:[34,10,5,15],backgroundColor:['%2300ff00','%2300cc00','%23009900','%23333333']}]},options:{plugins:{datalabels:{display:true},doughnutlabel:{labels:[{text:'Progress',font:{size:20}}]}}}})
