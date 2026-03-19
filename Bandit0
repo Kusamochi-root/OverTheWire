@@ -1,0 +1,9 @@
+Bandit0
+
+1.How to login
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+2.Using commands
+ls 
+cat 
+
